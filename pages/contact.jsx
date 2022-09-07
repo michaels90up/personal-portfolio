@@ -16,9 +16,7 @@ function Contact() {
             <h1 data-cy="pageTitle" className="title">
               Contact
             </h1>
-            <p className="description">
-
-            </p>
+            <p className="description" />
             <ul className="contact-links">
               <li className="contact-item">Email: michael1990spw@gmail.com</li>
               <li className="contact-item">Phone: 0677 62350934</li>
